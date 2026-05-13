@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\ciano\OneDrive - University College Cork\LogTurtle\Test PCBs\APR2025\LOGTURTLE_APR_25_TX_Design_2026-05-11\LOGTURTLE_APR_25_TX.PcbDoc
-Date     : 11/05/2026
-Time     : 17:21:36
+PCB File : C:\Users\ciano\OneDrive - University College Cork\LogTurtle\Test PCBs\APR2025\LOGTURTLE_APR_25_TX_Design\LOGTURTLE_APR_25_TX.PcbDoc
+Date     : 13/05/2026
+Time     : 14:37:55
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -61,6 +61,9 @@ Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.1mm < 0.15mm) Between Arc (149.075mm,101.913mm) on Top Overlay And Text "J3" (148.699mm,101.739mm) on Top Overlay Silk Text to Silk Clearance [0.1mm]
    Violation between Silk To Silk Clearance Constraint: (0.104mm < 0.15mm) Between Arc (153.06mm,103.475mm) on Top Overlay And Text "Enable" (151.9mm,102.805mm) on Top Overlay Silk Text to Silk Clearance [0.104mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Arc (156.725mm,44.86mm) on Top Overlay And Text "DIN" (157.5mm,43.5mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Arc (94.075mm,95.8mm) on Top Overlay And Text "C86" (93.754mm,96.102mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Arc (97.4mm,95.8mm) on Top Overlay And Text "R51" (98.772mm,96.547mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.138mm < 0.15mm) Between Arc (97.4mm,95.8mm) on Top Overlay And Text "TP32" (96.983mm,93.742mm) on Top Overlay Silk Text to Silk Clearance [0.138mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "AVDD5V" (139.7mm,95.321mm) on Top Overlay And Text "TP7" (145.598mm,94.594mm) on Top Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (0.145mm < 0.15mm) Between Text "AVDD5V" (67.489mm,65.6mm) on Top Overlay And Text "HIGH" (68.289mm,65.6mm) on Top Overlay Silk Text to Silk Clearance [0.145mm]
    Violation between Silk To Silk Clearance Constraint: (0.05mm < 0.15mm) Between Text "AVDD5V" (67.489mm,65.6mm) on Top Overlay And Track (61.4mm,69.4mm)(67.9mm,69.4mm) on Top Overlay Silk Text to Silk Clearance [0.05mm]
@@ -146,7 +149,7 @@ Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.116mm < 0.15mm) Between Text "U4" (124.284mm,124.321mm) on Bottom Overlay And Track (123.047mm,124.088mm)(129.753mm,124.088mm) on Bottom Overlay Silk Text to Silk Clearance [0.116mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "U6" (135.98mm,50.749mm) on Top Overlay And Track (134.862mm,1.967mm)(134.862mm,59.873mm) on Top Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "U6" (135.98mm,50.749mm) on Top Overlay And Track (135.024mm,52.036mm)(135.024mm,53.56mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :100
+Rule Violations :103
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -161,6 +164,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 100
+Violations Detected : 103
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
