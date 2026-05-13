@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=S2 Pin=C82-1
+Removed Pin From Net: NetName=VDD_UNREG_12V Pin=C82-2
+Removed Pin From Net: NetName=S2 Pin=C83-1
+Removed Pin From Net: NetName=VDD_UNREG_12V Pin=C83-2
+Removed Pin From Net: NetName=NetC87_2 Pin=GD1-2
+Removed Pin From Net: NetName=NetC89_2 Pin=GD1-3
+Removed Pin From Net: NetName=AVDD5V Pin=GD1-4
+Removed Pin From Net: NetName=S2 Pin=GD1-5
+Removed Pin From Net: NetName=VDD_UNREG_12V Pin=GD1-6
+Removed Pin From Net: NetName=NetD12_1 Pin=GD1-9
+Removed Pin From Net: NetName=SK2 Pin=GD1-10
+Removed Pin From Net: NetName=VCC1 Pin=GD1-14
+Removed Pin From Net: NetName=SK1 Pin=GD1-15
+Removed Pin From Net: NetName=NetD11_1 Pin=GD1-16
+Removed Pin From Net: NetName=S2 Pin=R52-1
+Removed Pin From Net: NetName=AVDD5V Pin=RDEBUG-1
+Removed Pin From Net: NetName=VDD_UNREG_12V Pin=RDEBUG-2
+Removed Pin From Net: NetName=NetHDR_4 Pin=TP29-TP_29
+Removed Member From Class: ClassName=BiG1 Member=C82
+Removed Member From Class: ClassName=BiG1 Member=C83
+Removed Member From Class: ClassName=BiG1 Member=R52
+Removed Member From Class: ClassName=BiG1 Member=RDEBUG
+Change Footprint: Footprint Not Found SOT95P285X140-6N
+Change Component Comment : Designator=SW_TUNE Old Comment= New Comment=TP65B110HRU
+Change Component Comment : Designator=IC3 Old Comment=DMN61D8LVT-7 New Comment=DMN601DMK-7
+Change Component Comment : Designator=IC4 Old Comment=ISO6440DWR New Comment=ISO6740FDWR
+Change Component Comment : Designator=IC5 Old Comment=ISO6442DWR New Comment=ISO6442FDWR
+Change Component Comment : Designator=GD1 Old Comment=NV1702 New Comment=Si8275GBD-IS1
+Change component parameters: Designator = "GD1" ("GD1"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\MXKHCPTY\EHVMZKAW\ZLMXAQLL" ("\MXKHCPTY\EHVMZKAW\ZLMXAQLL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SI8275GBD-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si8275gbd-is1/silicon-labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.silabs.com/documents/public/data-sheets/Si827x.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Si8275GBD-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "634-SI8275GBD-IS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI8275GBD-IS1?qs=j6MGy4L9yX2SPc9HOZMvjA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "SOT95P280X100-6N"; UniqueID = "\JPGVVKXG\WJUIXVHB" ("\JPGVVKXG\WJUIXVHB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DMN601DMK-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmn601dmk-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/ds30657.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMN601DMK-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DMN601DMK-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN601DMK-7?qs=mQbszxtPdlMzhImbd%2FELhA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "SOIC127P1030X255-16N"; UniqueID = "\WUOSYBRT" ("\WUOSYBRT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/iso6441.pdf?ts=1759392249492&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FISO6441"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ISO6441FDWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC5" ("IC5"); Footprint = "SOIC127P1030X255-16N"; UniqueID = "\LQLUBEGT" ("\LQLUBEGT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/iso6441.pdf?ts=1759392249492&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FISO6441"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ISO6441FDWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GD?(SOIC127P600X175-16N)
+Added Component: Designator=J_EN_GD(FP-TSW-103-14-G-S-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.32inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "7.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "550V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TSW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC87_2 Pin=GD1-1
+Added Pin To Net: NetName=NetC89_2 Pin=GD1-2
+Added Pin To Net: NetName=AVDD5V Pin=GD1-3
+Added Pin To Net: NetName=S2 Pin=GD1-4
+Added Pin To Net: NetName=AVDD5V Pin=GD1-8
+Added Pin To Net: NetName=SK2 Pin=GD1-9
+Added Pin To Net: NetName=NetD12_1 Pin=GD1-10
+Added Pin To Net: NetName=SK1 Pin=GD1-14
+Added Pin To Net: NetName=NetD11_1 Pin=GD1-15
+Added Pin To Net: NetName=VCC1 Pin=GD1-16
+Added Pin To Net: NetName=S2 Pin=J_EN_GD-3
+Add Pin To Net: Unknown Pin: Pin TP29-1
+Added Pin To Net: NetName=AVDD5V Pin=TP35-1
+Added Pin To Net: NetName=EN Pin=GD1-5
+Added Pin To Net: NetName=EN Pin=J_EN_GD-2
+Added Net: Name=EN
+Added Pin To Net: NetName=NetJ_EN_GD_1 Pin=J_EN_GD-1
+Added Pin To Net: NetName=NetJ_EN_GD_1 Pin=R45-1
+Added Net: Name=NetJ_EN_GD_1
+Added Member To Class: ClassName=BiG1 Member=Component GD? NV1702
+Added Member To Class: ClassName=BiG1 Member=Component J_EN_GD TSW-103-14-G-S
